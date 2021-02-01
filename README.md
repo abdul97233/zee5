@@ -28,7 +28,7 @@ sudo apt install ffmpeg
 * Run the app
 
 ```sh
-git clone https://github.com/TroJanzHEX/Zee5-Downloader
+git clone https://github.com/abdul97233/Zee5-Downloader
 cd Zee5-Downloader
 pip3 install -r requirements.txt
 python3 bot.py
